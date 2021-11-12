@@ -1,0 +1,18 @@
+Nov 03, 2021 11:19:10 PM gui.RootLevel main
+INFO: Application First Log
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: create logger header value
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: initializing frame
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: setup backdrop
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: finished setup backdrop
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: setup components
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: <width, height>: 500, 300
+Nov 03, 2021 11:19:10 PM gui.LoginFrame log
+INFO: [LoginFrame]: finished setup components
+Nov 03, 2021 11:19:11 PM gui.LoginFrame log
+INFO: [LoginFrame]: frame finished
