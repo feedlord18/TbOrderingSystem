@@ -1,4 +1,4 @@
-# Taobao Parcel Organization System （淘宝集运订单处理）
+# Parcel Organization System （淘宝集运订单处理）
 1. This small program is designed to aid the process and shift from Saas platforms such as Google Doc/Sheets where collaboration between multiple people could pose and issue. The program simplifies the parcel logging process and reduces the number of operations the users needs.
 
 ## Requires Java 8 (JRE 1.8): https://www.java.com/en/download/manual.jsp
